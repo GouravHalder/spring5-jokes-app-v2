@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationContext;
 
 import guru.springframework.spring5jokesappv2.services.JokeServiceImpl;
 
-
+//Check after migration
 @SpringBootApplication
 public class Spring5JokesAppV2Application {
 
